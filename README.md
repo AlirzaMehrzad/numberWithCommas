@@ -3,7 +3,7 @@ simple javascript package for numerical formmat
 
 Install: 
 ```javascript
-npm i number-with-commmas
+npm i numbers-with-commas
 ```
 Usage:   
 react:
